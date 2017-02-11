@@ -5,9 +5,10 @@
 var React = require('react');
 
 var styles = {
-  "color": "black",
+  "margin-top": 10,
+  "color": "darkblue",
   "background": "lightblue",
-  "padding": 5
+  "padding": "10px 0 10px 40px"
 }
 
 var Title = React.createClass({
